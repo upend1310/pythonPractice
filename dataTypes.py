@@ -6,9 +6,9 @@ print(type(day))
 # Float
 weight = 50.67
 
-print(3+6)
-print(day+3)
-print(weight*2)
+print(3 + 6)
+print(day + 3)
+print(weight * 2)
 print(type(weight))
 
 # Complex Numbers
@@ -116,8 +116,4 @@ print(Dict.get(3))
 # No use for different types would produce an error.
 a = 10
 b = "Geeks"
-print(a+b)
-
-
-
-
+print(a + b)
