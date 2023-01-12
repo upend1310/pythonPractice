@@ -25,3 +25,13 @@ def make_decision(temp):
 
 
 make_decision(90)
+
+
+def loops():
+    i = 1
+    while i <= 10:
+        print(i)
+        i += 1
+
+
+loops()
