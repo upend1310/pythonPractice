@@ -35,3 +35,20 @@ def loops():
 
 
 loops()
+
+
+def raise_to_power(num, power):
+    return num ** power
+
+
+print(raise_to_power(3, 5))
+
+
+def raise_to_power_using_for(base_num, pow_num):
+    result = 1
+    for index in range(pow_num):
+        result = result * base_num
+    return result
+
+
+print(raise_to_power_using_for(3, 2))

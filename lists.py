@@ -25,3 +25,16 @@ print(fav_movies)
 
 # print(fav_movies.index("Sandlot"))
 
+
+friends = ["Jim", "Karen", "Kevin"]
+for name in friends:
+    print(name)
+
+for index in range(10):
+    print(index)
+
+print("//////////////////////")
+
+for index in range(3, 10):
+    print(index)
+
