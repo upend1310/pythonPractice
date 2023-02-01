@@ -32,6 +32,14 @@ def fn():
     print(t)
 
 
+# 41
+# 32
+# 31
+# Welcome geeks
+# I love Geeksforgeeks
+# Value of x inside a function : 20
+# Value of x outside a function : 20
+
 # Global scope
 t = "I love Geeksforgeeks"
 fn()
